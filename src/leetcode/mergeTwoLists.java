@@ -50,6 +50,7 @@ public class mergeTwoLists {
 		System.out.println(result.next.next.val);
 		System.out.println(result.next.next.next.val);
 		System.out.println(result.next.next.next.next.val);
+		System.out.println(result.next.next.next.next.next.val);
 
 	}
 	
